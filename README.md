@@ -21,7 +21,7 @@ The steps involved in this project include:
 
 Currently, the trained model achieved an accuracy score of 98%. 
 
-
+<img width="544" alt="Screenshot 2024-04-26 at 5 12 07 PM" src="https://github.com/Ph1so/is-the-mushroom-edible/assets/56458094/bf3f449e-c55b-4a9a-b247-68d19323ff7e">
 
 # Usage
 
